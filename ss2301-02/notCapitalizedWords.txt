@@ -1,0 +1,4 @@
+the,a,an,
+and,but,or,nor,for,yet,
+in,on,at,by,with,of,to,from,for,during,
+after,before,between,among
