@@ -1,0 +1,26 @@
+.DS_Store
+myenv
+sample2.jpeg
+sample_img.png
+saved_img
+
+# for python 
+__pacache__/
+*.py[cod]
+*py.class
+
+# for ss2023 data
+*.txt
+*.csv
+*.xlsx
+*.jpg
+*.png
+*.tif
+*.dcm
+*.raw
+*.mhd
+*.xml
+*.npz
+
+# virtual environment
+myenv
