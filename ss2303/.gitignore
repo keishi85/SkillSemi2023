@@ -1,0 +1,42 @@
+.DS_Store
+myenv
+# for python
+__pacache__/
+*.py[cod]
+*py.class
+
+# for ss2023 data
+*.txt
+*.csv
+*.xlsx
+*.jpg
+*.png
+*.tif
+*.dcm
+*.raw
+*.mhd
+*.xml
+*.npz
+
+# virtual environment
+myenv
+
+../.DS_Store
+
+
+# for deep learning 
+*.pth
+*.onnx
+
+# ZoneID (WSL)
+*Zone.Identifier
+
+venv
+requierments.txt
+*.JPG
+ss2303-sample01.py
+ss2303-sample02.py
+ex.py
+saved_image
+sample_img
+face_img

@@ -1,0 +1,16 @@
+classification
+segmentation
+data
+test
+venv
+.idea
+idea
+.idea/
+../.idea
+../.vscode
+*.pdf
+__pycache__/
+*.ipynb
+Result for Power Point/
+*.pptx
+*.uuid

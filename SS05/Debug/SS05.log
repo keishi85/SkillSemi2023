@@ -1,0 +1,4 @@
+﻿  ソース.cpp
+C:\Users\Ritter\skillsem1\SS05\ソース.cpp(297,1): warning C4305: '初期化中': 'double' から 'float' へ切り詰めます。
+C:\Users\Ritter\skillsem1\SS05\ソース.cpp(552): message : コンパイル対象の関数 テンプレート インスタンス化 'void Mip<short>(Image3d<short> &,Image2d<short> &,int,int,int,int)' のリファレンスを確認してください
+  SS05.vcxproj -> C:\Users\Ritter\skillsem1\SS05\Debug\SS05.exe

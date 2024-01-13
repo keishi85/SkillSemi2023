@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/keishi/NakagutiLaboratory/SkillSemi2023/ss2307",
+      "program": "/Users/keishi/NakagutiLaboratory/SkillSemi2023/ss2307/build/Debug/outDebug"
+    }
+  ]
+}

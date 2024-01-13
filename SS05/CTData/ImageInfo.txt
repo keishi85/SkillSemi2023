@@ -1,0 +1,8 @@
+Width = 256
+Height = 256
+Depth = 625
+resoX = 1.564000
+resoY = 1.564000
+resoZ = 2.001600
+Windowlevel = 1000
+Windowwidth = 1700
